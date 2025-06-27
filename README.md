@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## 後藤繁樹のプロフィール
 <!--
 **gotoushigeki/gotoushigeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+後藤繁樹と申します。1990年生まれ、埼玉県で暮らしています。
+小さい頃からゲームが大好きで、今でも暇さえあればプレイしています。最近は料理にもハマっていて、自分で作ったご飯を食べるのがちょっとした楽しみです。ランニングも気分転換に続けていて、ゲームと運動のバランスを取りながら毎日を過ごしています。
+
+## 後藤繁樹のスキル
+- プログラマー
+- システムエンジニア
